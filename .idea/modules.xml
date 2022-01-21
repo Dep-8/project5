@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-hello-jdbc/1-hello-jdbc.iml" filepath="$PROJECT_DIR$/1-hello-jdbc/1-hello-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-regular-vs-prepared/2-regular-vs-prepared.iml" filepath="$PROJECT_DIR$/2-regular-vs-prepared/2-regular-vs-prepared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-multi-queries/3-multi-queries.iml" filepath="$PROJECT_DIR$/3-multi-queries/3-multi-queries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jdbc.iml" filepath="$PROJECT_DIR$/.idea/jdbc.iml" />
+    </modules>
+  </component>
+</project>
